@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>AD stats</title>
+
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/tabulator/4.4.3/js/tabulator.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/tabulator/4.4.3/css/tabulator_simple.min.css">
+
+	
+</head>
+<body>
+
+<h1>Hero Stats</h1>
+<div id="hero_stats"></div>
+<h1>Ability Stats</h1>
+<div id="ability_stats"></div>
+
+</body>
+
+<style type="text/css">
+	body{
+		font-family: 'Arial';
+	}
+
+</style>
+
+<script type="text/javascript">
+	$( document ).ready(function() {
+
+		var table_heroes = new Tabulator("#hero_stats", {
+			ajaxURL:"http://f5e9f559.ngrok.io/heroes",
+			height:"45vh",
+			width: "100vw",
+			initialSort: {column:"adj_win_rate", dir:"desc"},
+			// autoColumns : true,
+			columns:[
+				{'title' : 'Hero' , 'field' : 'name'},
+				{'title' : 'Total Games' , 'field' : 'games'},
+				{'title' : 'Wins' , 'field' : 'win'},
+				{'title' : 'Loses' , 'field' : 'lose'},
+				{'title' : 'Adjusted Win Rate', 'field':'adj_win_rate', formatter:"money", formatterParams:{
+					decimal:",",
+					thousand:".",
+					symbol:"%",
+					symbolAfter:"%",
+					precision:false,
+				}},
+				{'title' : 'Win Rate', 'field':'win_rate', formatter:"money", formatterParams:{
+					decimal:",",
+					thousand:".",
+					symbol:"%",
+					symbolAfter:"%",
+					precision:false,
+				}}
+			]
+		});
+
+
+		var table_abilities = new Tabulator("#ability_stats", {
+			ajaxURL:"http://f5e9f559.ngrok.io/abilities",
+			height:"45vh",
+			width: "100vw",
+			initialSort: {column:"adj_win_rate", dir:"desc"},
+			// autoColumns : true,
+			columns:[
+				{'title' : 'Ability' , 'field' : 'name'},
+				{'title' : 'Total Games' , 'field' : 'games'},
+				{'title' : 'Wins' , 'field' : 'win'},
+				{'title' : 'Loses' , 'field' : 'lose'},
+				{'title' : 'Adjusted Win Rate', 'field':'adj_win_rate', formatter:"money", formatterParams:{
+					decimal:",",
+					thousand:".",
+					symbol:"%",
+					symbolAfter:"%",
+					precision:false,
+				}},
+				{'title' : 'Win Rate', 'field':'win_rate', formatter:"money", formatterParams:{
+					decimal:",",
+					thousand:".",
+					symbol:"%",
+					symbolAfter:"%",
+					precision:false,
+				}}
+			]
+		});
+
+	});
+
+
+
+</script>
+</html>

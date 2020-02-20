@@ -1,0 +1,1037 @@
+[
+    {
+        "id": 53,
+        "name": "furion",
+        "win": 67,
+        "lose": 34,
+        "games": 101,
+        "win_rate": 66,
+        "adj_win_rate": 66
+    },
+    {
+        "id": 38,
+        "name": "beastmaster",
+        "win": 19,
+        "lose": 9,
+        "games": 28,
+        "win_rate": 68,
+        "adj_win_rate": 63
+    },
+    {
+        "id": 30,
+        "name": "witch_doctor",
+        "win": 56,
+        "lose": 38,
+        "games": 94,
+        "win_rate": 60,
+        "adj_win_rate": 60
+    },
+    {
+        "id": 60,
+        "name": "night_stalker",
+        "win": 59,
+        "lose": 40,
+        "games": 99,
+        "win_rate": 60,
+        "adj_win_rate": 60
+    },
+    {
+        "id": 5,
+        "name": "crystal_maiden",
+        "win": 71,
+        "lose": 50,
+        "games": 121,
+        "win_rate": 59,
+        "adj_win_rate": 59
+    },
+    {
+        "id": 78,
+        "name": "brewmaster",
+        "win": 59,
+        "lose": 45,
+        "games": 104,
+        "win_rate": 57,
+        "adj_win_rate": 57
+    },
+    {
+        "id": 90,
+        "name": "keeper_of_the_light",
+        "win": 17,
+        "lose": 12,
+        "games": 29,
+        "win_rate": 59,
+        "adj_win_rate": 57
+    },
+    {
+        "id": 54,
+        "name": "life_stealer",
+        "win": 44,
+        "lose": 34,
+        "games": 78,
+        "win_rate": 56,
+        "adj_win_rate": 56
+    },
+    {
+        "id": 28,
+        "name": "slardar",
+        "win": 58,
+        "lose": 45,
+        "games": 103,
+        "win_rate": 56,
+        "adj_win_rate": 56
+    },
+    {
+        "id": 47,
+        "name": "viper",
+        "win": 52,
+        "lose": 41,
+        "games": 93,
+        "win_rate": 56,
+        "adj_win_rate": 56
+    },
+    {
+        "id": 96,
+        "name": "centaur",
+        "win": 54,
+        "lose": 42,
+        "games": 96,
+        "win_rate": 56,
+        "adj_win_rate": 56
+    },
+    {
+        "id": 43,
+        "name": "death_prophet",
+        "win": 54,
+        "lose": 44,
+        "games": 98,
+        "win_rate": 55,
+        "adj_win_rate": 55
+    },
+    {
+        "id": 76,
+        "name": "obsidian_destroyer",
+        "win": 53,
+        "lose": 43,
+        "games": 96,
+        "win_rate": 55,
+        "adj_win_rate": 55
+    },
+    {
+        "id": 15,
+        "name": "razor",
+        "win": 51,
+        "lose": 43,
+        "games": 94,
+        "win_rate": 54,
+        "adj_win_rate": 54
+    },
+    {
+        "id": 12,
+        "name": "phantom_lancer",
+        "win": 57,
+        "lose": 48,
+        "games": 105,
+        "win_rate": 54,
+        "adj_win_rate": 54
+    },
+    {
+        "id": 62,
+        "name": "bounty_hunter",
+        "win": 59,
+        "lose": 50,
+        "games": 109,
+        "win_rate": 54,
+        "adj_win_rate": 54
+    },
+    {
+        "id": 35,
+        "name": "sniper",
+        "win": 54,
+        "lose": 46,
+        "games": 100,
+        "win_rate": 54,
+        "adj_win_rate": 54
+    },
+    {
+        "id": 49,
+        "name": "dragon_knight",
+        "win": 48,
+        "lose": 41,
+        "games": 89,
+        "win_rate": 54,
+        "adj_win_rate": 54
+    },
+    {
+        "id": 41,
+        "name": "faceless_void",
+        "win": 55,
+        "lose": 47,
+        "games": 102,
+        "win_rate": 54,
+        "adj_win_rate": 54
+    },
+    {
+        "id": 81,
+        "name": "chaos_knight",
+        "win": 60,
+        "lose": 54,
+        "games": 114,
+        "win_rate": 53,
+        "adj_win_rate": 53
+    },
+    {
+        "id": 75,
+        "name": "silencer",
+        "win": 50,
+        "lose": 45,
+        "games": 95,
+        "win_rate": 53,
+        "adj_win_rate": 53
+    },
+    {
+        "id": 99,
+        "name": "bristleback",
+        "win": 58,
+        "lose": 52,
+        "games": 110,
+        "win_rate": 53,
+        "adj_win_rate": 53
+    },
+    {
+        "id": 87,
+        "name": "disruptor",
+        "win": 55,
+        "lose": 49,
+        "games": 104,
+        "win_rate": 53,
+        "adj_win_rate": 53
+    },
+    {
+        "id": 31,
+        "name": "lich",
+        "win": 59,
+        "lose": 52,
+        "games": 111,
+        "win_rate": 53,
+        "adj_win_rate": 53
+    },
+    {
+        "id": 37,
+        "name": "warlock",
+        "win": 58,
+        "lose": 51,
+        "games": 109,
+        "win_rate": 53,
+        "adj_win_rate": 53
+    },
+    {
+        "id": 6,
+        "name": "drow_ranger",
+        "win": 52,
+        "lose": 46,
+        "games": 98,
+        "win_rate": 53,
+        "adj_win_rate": 53
+    },
+    {
+        "id": 29,
+        "name": "tidehunter",
+        "win": 48,
+        "lose": 43,
+        "games": 91,
+        "win_rate": 53,
+        "adj_win_rate": 53
+    },
+    {
+        "id": 85,
+        "name": "undying",
+        "win": 45,
+        "lose": 41,
+        "games": 86,
+        "win_rate": 52,
+        "adj_win_rate": 52
+    },
+    {
+        "id": 102,
+        "name": "abaddon",
+        "win": 46,
+        "lose": 43,
+        "games": 89,
+        "win_rate": 52,
+        "adj_win_rate": 52
+    },
+    {
+        "id": 3,
+        "name": "bane",
+        "win": 55,
+        "lose": 50,
+        "games": 105,
+        "win_rate": 52,
+        "adj_win_rate": 52
+    },
+    {
+        "id": 104,
+        "name": "legion_commander",
+        "win": 50,
+        "lose": 46,
+        "games": 96,
+        "win_rate": 52,
+        "adj_win_rate": 52
+    },
+    {
+        "id": 92,
+        "name": "visage",
+        "win": 44,
+        "lose": 40,
+        "games": 84,
+        "win_rate": 52,
+        "adj_win_rate": 52
+    },
+    {
+        "id": 52,
+        "name": "leshrac",
+        "win": 45,
+        "lose": 42,
+        "games": 87,
+        "win_rate": 52,
+        "adj_win_rate": 52
+    },
+    {
+        "id": 58,
+        "name": "enchantress",
+        "win": 54,
+        "lose": 49,
+        "games": 103,
+        "win_rate": 52,
+        "adj_win_rate": 52
+    },
+    {
+        "id": 56,
+        "name": "clinkz",
+        "win": 56,
+        "lose": 52,
+        "games": 108,
+        "win_rate": 52,
+        "adj_win_rate": 52
+    },
+    {
+        "id": 119,
+        "name": "dark_willow",
+        "win": 16,
+        "lose": 15,
+        "games": 31,
+        "win_rate": 52,
+        "adj_win_rate": 52
+    },
+    {
+        "id": 68,
+        "name": "ancient_apparition",
+        "win": 63,
+        "lose": 60,
+        "games": 123,
+        "win_rate": 51,
+        "adj_win_rate": 51
+    },
+    {
+        "id": 44,
+        "name": "phantom_assassin",
+        "win": 53,
+        "lose": 51,
+        "games": 104,
+        "win_rate": 51,
+        "adj_win_rate": 51
+    },
+    {
+        "id": 8,
+        "name": "juggernaut",
+        "win": 64,
+        "lose": 62,
+        "games": 126,
+        "win_rate": 51,
+        "adj_win_rate": 51
+    },
+    {
+        "id": 4,
+        "name": "bloodseeker",
+        "win": 57,
+        "lose": 54,
+        "games": 111,
+        "win_rate": 51,
+        "adj_win_rate": 51
+    },
+    {
+        "id": 97,
+        "name": "magnataur",
+        "win": 55,
+        "lose": 53,
+        "games": 108,
+        "win_rate": 51,
+        "adj_win_rate": 51
+    },
+    {
+        "id": 9,
+        "name": "mirana",
+        "win": 49,
+        "lose": 48,
+        "games": 97,
+        "win_rate": 51,
+        "adj_win_rate": 51
+    },
+    {
+        "id": 71,
+        "name": "spirit_breaker",
+        "win": 46,
+        "lose": 45,
+        "games": 91,
+        "win_rate": 51,
+        "adj_win_rate": 51
+    },
+    {
+        "id": 7,
+        "name": "earthshaker",
+        "win": 52,
+        "lose": 53,
+        "games": 105,
+        "win_rate": 50,
+        "adj_win_rate": 50
+    },
+    {
+        "id": 27,
+        "name": "shadow_shaman",
+        "win": 54,
+        "lose": 54,
+        "games": 108,
+        "win_rate": 50,
+        "adj_win_rate": 50
+    },
+    {
+        "id": 55,
+        "name": "dark_seer",
+        "win": 52,
+        "lose": 52,
+        "games": 104,
+        "win_rate": 50,
+        "adj_win_rate": 50
+    },
+    {
+        "id": 14,
+        "name": "pudge",
+        "win": 48,
+        "lose": 48,
+        "games": 96,
+        "win_rate": 50,
+        "adj_win_rate": 50
+    },
+    {
+        "id": 109,
+        "name": "terrorblade",
+        "win": 24,
+        "lose": 24,
+        "games": 48,
+        "win_rate": 50,
+        "adj_win_rate": 50
+    },
+    {
+        "id": 110,
+        "name": "phoenix",
+        "win": 15,
+        "lose": 7,
+        "games": 22,
+        "win_rate": 68,
+        "adj_win_rate": 50
+    },
+    {
+        "id": 48,
+        "name": "luna",
+        "win": 53,
+        "lose": 52,
+        "games": 105,
+        "win_rate": 50,
+        "adj_win_rate": 50
+    },
+    {
+        "id": 26,
+        "name": "lion",
+        "win": 53,
+        "lose": 54,
+        "games": 107,
+        "win_rate": 50,
+        "adj_win_rate": 50
+    },
+    {
+        "id": 101,
+        "name": "skywrath_mage",
+        "win": 55,
+        "lose": 57,
+        "games": 112,
+        "win_rate": 49,
+        "adj_win_rate": 49
+    },
+    {
+        "id": 18,
+        "name": "sven",
+        "win": 53,
+        "lose": 55,
+        "games": 108,
+        "win_rate": 49,
+        "adj_win_rate": 49
+    },
+    {
+        "id": 113,
+        "name": "arc_warden",
+        "win": 22,
+        "lose": 23,
+        "games": 45,
+        "win_rate": 49,
+        "adj_win_rate": 49
+    },
+    {
+        "id": 65,
+        "name": "batrider",
+        "win": 53,
+        "lose": 56,
+        "games": 109,
+        "win_rate": 49,
+        "adj_win_rate": 49
+    },
+    {
+        "id": 103,
+        "name": "elder_titan",
+        "win": 37,
+        "lose": 38,
+        "games": 75,
+        "win_rate": 49,
+        "adj_win_rate": 49
+    },
+    {
+        "id": 94,
+        "name": "medusa",
+        "win": 51,
+        "lose": 54,
+        "games": 105,
+        "win_rate": 49,
+        "adj_win_rate": 49
+    },
+    {
+        "id": 33,
+        "name": "enigma",
+        "win": 67,
+        "lose": 69,
+        "games": 136,
+        "win_rate": 49,
+        "adj_win_rate": 49
+    },
+    {
+        "id": 50,
+        "name": "dazzle",
+        "win": 52,
+        "lose": 54,
+        "games": 106,
+        "win_rate": 49,
+        "adj_win_rate": 49
+    },
+    {
+        "id": 1,
+        "name": "antimage",
+        "win": 56,
+        "lose": 59,
+        "games": 115,
+        "win_rate": 49,
+        "adj_win_rate": 49
+    },
+    {
+        "id": 72,
+        "name": "gyrocopter",
+        "win": 47,
+        "lose": 48,
+        "games": 95,
+        "win_rate": 49,
+        "adj_win_rate": 49
+    },
+    {
+        "id": 20,
+        "name": "vengefulspirit",
+        "win": 33,
+        "lose": 35,
+        "games": 68,
+        "win_rate": 49,
+        "adj_win_rate": 49
+    },
+    {
+        "id": 77,
+        "name": "lycan",
+        "win": 45,
+        "lose": 47,
+        "games": 92,
+        "win_rate": 49,
+        "adj_win_rate": 49
+    },
+    {
+        "id": 40,
+        "name": "venomancer",
+        "win": 58,
+        "lose": 60,
+        "games": 118,
+        "win_rate": 49,
+        "adj_win_rate": 49
+    },
+    {
+        "id": 88,
+        "name": "nyx_assassin",
+        "win": 53,
+        "lose": 57,
+        "games": 110,
+        "win_rate": 48,
+        "adj_win_rate": 48
+    },
+    {
+        "id": 16,
+        "name": "sand_king",
+        "win": 56,
+        "lose": 61,
+        "games": 117,
+        "win_rate": 48,
+        "adj_win_rate": 48
+    },
+    {
+        "id": 23,
+        "name": "kunkka",
+        "win": 53,
+        "lose": 57,
+        "games": 110,
+        "win_rate": 48,
+        "adj_win_rate": 48
+    },
+    {
+        "id": 36,
+        "name": "necrolyte",
+        "win": 46,
+        "lose": 49,
+        "games": 95,
+        "win_rate": 48,
+        "adj_win_rate": 48
+    },
+    {
+        "id": 42,
+        "name": "skeleton_king",
+        "win": 49,
+        "lose": 54,
+        "games": 103,
+        "win_rate": 48,
+        "adj_win_rate": 48
+    },
+    {
+        "id": 83,
+        "name": "treant",
+        "win": 48,
+        "lose": 53,
+        "games": 101,
+        "win_rate": 48,
+        "adj_win_rate": 48
+    },
+    {
+        "id": 17,
+        "name": "storm_spirit",
+        "win": 42,
+        "lose": 47,
+        "games": 89,
+        "win_rate": 47,
+        "adj_win_rate": 47
+    },
+    {
+        "id": 111,
+        "name": "oracle",
+        "win": 30,
+        "lose": 34,
+        "games": 64,
+        "win_rate": 47,
+        "adj_win_rate": 47
+    },
+    {
+        "id": 57,
+        "name": "omniknight",
+        "win": 47,
+        "lose": 53,
+        "games": 100,
+        "win_rate": 47,
+        "adj_win_rate": 47
+    },
+    {
+        "id": 25,
+        "name": "lina",
+        "win": 51,
+        "lose": 58,
+        "games": 109,
+        "win_rate": 47,
+        "adj_win_rate": 47
+    },
+    {
+        "id": 21,
+        "name": "windrunner",
+        "win": 46,
+        "lose": 52,
+        "games": 98,
+        "win_rate": 47,
+        "adj_win_rate": 47
+    },
+    {
+        "id": 67,
+        "name": "spectre",
+        "win": 14,
+        "lose": 7,
+        "games": 21,
+        "win_rate": 67,
+        "adj_win_rate": 47
+    },
+    {
+        "id": 112,
+        "name": "winter_wyvern",
+        "win": 28,
+        "lose": 33,
+        "games": 61,
+        "win_rate": 46,
+        "adj_win_rate": 46
+    },
+    {
+        "id": 39,
+        "name": "queenofpain",
+        "win": 54,
+        "lose": 64,
+        "games": 118,
+        "win_rate": 46,
+        "adj_win_rate": 46
+    },
+    {
+        "id": 45,
+        "name": "pugna",
+        "win": 50,
+        "lose": 59,
+        "games": 109,
+        "win_rate": 46,
+        "adj_win_rate": 46
+    },
+    {
+        "id": 89,
+        "name": "naga_siren",
+        "win": 51,
+        "lose": 60,
+        "games": 111,
+        "win_rate": 46,
+        "adj_win_rate": 46
+    },
+    {
+        "id": 51,
+        "name": "rattletrap",
+        "win": 47,
+        "lose": 55,
+        "games": 102,
+        "win_rate": 46,
+        "adj_win_rate": 46
+    },
+    {
+        "id": 63,
+        "name": "weaver",
+        "win": 44,
+        "lose": 52,
+        "games": 96,
+        "win_rate": 46,
+        "adj_win_rate": 46
+    },
+    {
+        "id": 73,
+        "name": "alchemist",
+        "win": 39,
+        "lose": 47,
+        "games": 86,
+        "win_rate": 45,
+        "adj_win_rate": 45
+    },
+    {
+        "id": 34,
+        "name": "tinker",
+        "win": 45,
+        "lose": 56,
+        "games": 101,
+        "win_rate": 45,
+        "adj_win_rate": 45
+    },
+    {
+        "id": 70,
+        "name": "ursa",
+        "win": 50,
+        "lose": 61,
+        "games": 111,
+        "win_rate": 45,
+        "adj_win_rate": 45
+    },
+    {
+        "id": 19,
+        "name": "tiny",
+        "win": 56,
+        "lose": 69,
+        "games": 125,
+        "win_rate": 45,
+        "adj_win_rate": 45
+    },
+    {
+        "id": 100,
+        "name": "tusk",
+        "win": 28,
+        "lose": 35,
+        "games": 63,
+        "win_rate": 44,
+        "adj_win_rate": 44
+    },
+    {
+        "id": 59,
+        "name": "huskar",
+        "win": 44,
+        "lose": 55,
+        "games": 99,
+        "win_rate": 44,
+        "adj_win_rate": 44
+    },
+    {
+        "id": 32,
+        "name": "riki",
+        "win": 49,
+        "lose": 63,
+        "games": 112,
+        "win_rate": 44,
+        "adj_win_rate": 44
+    },
+    {
+        "id": 2,
+        "name": "axe",
+        "win": 42,
+        "lose": 55,
+        "games": 97,
+        "win_rate": 43,
+        "adj_win_rate": 43
+    },
+    {
+        "id": 46,
+        "name": "templar_assassin",
+        "win": 16,
+        "lose": 21,
+        "games": 37,
+        "win_rate": 43,
+        "adj_win_rate": 43
+    },
+    {
+        "id": 22,
+        "name": "zuus",
+        "win": 51,
+        "lose": 68,
+        "games": 119,
+        "win_rate": 43,
+        "adj_win_rate": 43
+    },
+    {
+        "id": 64,
+        "name": "jakiro",
+        "win": 43,
+        "lose": 56,
+        "games": 99,
+        "win_rate": 43,
+        "adj_win_rate": 43
+    },
+    {
+        "id": 11,
+        "name": "nevermore",
+        "win": 13,
+        "lose": 13,
+        "games": 26,
+        "win_rate": 50,
+        "adj_win_rate": 43
+    },
+    {
+        "id": 108,
+        "name": "abyssal_underlord",
+        "win": 25,
+        "lose": 34,
+        "games": 59,
+        "win_rate": 42,
+        "adj_win_rate": 42
+    },
+    {
+        "id": 120,
+        "name": "pangolier",
+        "win": 15,
+        "lose": 21,
+        "games": 36,
+        "win_rate": 42,
+        "adj_win_rate": 42
+    },
+    {
+        "id": 106,
+        "name": "ember_spirit",
+        "win": 13,
+        "lose": 19,
+        "games": 32,
+        "win_rate": 41,
+        "adj_win_rate": 41
+    },
+    {
+        "id": 129,
+        "name": "mars",
+        "win": 12,
+        "lose": 10,
+        "games": 22,
+        "win_rate": 55,
+        "adj_win_rate": 40
+    },
+    {
+        "id": 69,
+        "name": "doom_bringer",
+        "win": 12,
+        "lose": 10,
+        "games": 22,
+        "win_rate": 55,
+        "adj_win_rate": 40
+    },
+    {
+        "id": 61,
+        "name": "broodmother",
+        "win": 34,
+        "lose": 58,
+        "games": 92,
+        "win_rate": 37,
+        "adj_win_rate": 37
+    },
+    {
+        "id": 66,
+        "name": "chen",
+        "win": 11,
+        "lose": 18,
+        "games": 29,
+        "win_rate": 38,
+        "adj_win_rate": 37
+    },
+    {
+        "id": 121,
+        "name": "grimstroke",
+        "win": 11,
+        "lose": 12,
+        "games": 23,
+        "win_rate": 48,
+        "adj_win_rate": 37
+    },
+    {
+        "id": 98,
+        "name": "shredder",
+        "win": 19,
+        "lose": 33,
+        "games": 52,
+        "win_rate": 37,
+        "adj_win_rate": 37
+    },
+    {
+        "id": 93,
+        "name": "slark",
+        "win": 32,
+        "lose": 58,
+        "games": 90,
+        "win_rate": 36,
+        "adj_win_rate": 36
+    },
+    {
+        "id": 82,
+        "name": "meepo",
+        "win": 10,
+        "lose": 13,
+        "games": 23,
+        "win_rate": 43,
+        "adj_win_rate": 33
+    },
+    {
+        "id": 105,
+        "name": "techies",
+        "win": 10,
+        "lose": 7,
+        "games": 17,
+        "win_rate": 59,
+        "adj_win_rate": 33
+    },
+    {
+        "id": 84,
+        "name": "ogre_magi",
+        "win": 9,
+        "lose": 14,
+        "games": 23,
+        "win_rate": 39,
+        "adj_win_rate": 30
+    },
+    {
+        "id": 86,
+        "name": "rubick",
+        "win": 9,
+        "lose": 5,
+        "games": 14,
+        "win_rate": 64,
+        "adj_win_rate": 30
+    },
+    {
+        "id": 114,
+        "name": "monkey_king",
+        "win": 8,
+        "lose": 9,
+        "games": 17,
+        "win_rate": 47,
+        "adj_win_rate": 27
+    },
+    {
+        "id": 13,
+        "name": "puck",
+        "win": 7,
+        "lose": 3,
+        "games": 10,
+        "win_rate": 70,
+        "adj_win_rate": 23
+    },
+    {
+        "id": 79,
+        "name": "shadow_demon",
+        "win": 7,
+        "lose": 4,
+        "games": 11,
+        "win_rate": 64,
+        "adj_win_rate": 23
+    },
+    {
+        "id": 91,
+        "name": "wisp",
+        "win": 6,
+        "lose": 11,
+        "games": 17,
+        "win_rate": 35,
+        "adj_win_rate": 20
+    },
+    {
+        "id": 95,
+        "name": "troll_warlord",
+        "win": 4,
+        "lose": 7,
+        "games": 11,
+        "win_rate": 36,
+        "adj_win_rate": 13
+    },
+    {
+        "id": 128,
+        "name": "snapfire",
+        "win": 3,
+        "lose": 4,
+        "games": 7,
+        "win_rate": 43,
+        "adj_win_rate": 10
+    },
+    {
+        "id": 126,
+        "name": "void_spirit",
+        "win": 3,
+        "lose": 2,
+        "games": 5,
+        "win_rate": 60,
+        "adj_win_rate": 10
+    }
+]

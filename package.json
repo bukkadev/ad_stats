@@ -1,0 +1,24 @@
+{
+  "name": "ad_stats",
+  "version": "1.0.0",
+  "description": "Personal stats for Ability Draft",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natoshi/ad_stats.git"
+  },
+  "author": "bukka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natoshi/ad_stats/issues"
+  },
+  "homepage": "https://github.com/natoshi/ad_stats#readme",
+  "dependencies": {
+    "connect": "^3.7.0",
+    "request": "^2.88.2",
+    "server-static": "^2.0.5"
+  }
+}
